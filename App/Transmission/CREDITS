@@ -1,0 +1,82 @@
+Transmission
+Copyright 2005-2015. All code is copyrighted by the respective authors.
+http://www.transmissionbt.com/
+License: https://trac.transmissionbt.com/browser/trunk/COPYING
+
+DHT
+Copyright (c) 2009, 2010 by Juliusz Chroboczek
+
+libnatpmp
+Copyright (c) 2007-2009, Thomas BERNARD 
+All rights reserved.
+http://miniupnp.free.fr/libnatpmp.html
+License: https://github.com/miniupnp/miniupnp/blob/master/miniupnpc/LICENSE
+
+libutp
+Copyright (c) 2010 BitTorrent, Inc.
+License: libutp is released under the [MIT][http://www.opensource.org/licenses/mit-license.php] license.
+
+MiniUPnPc
+Copyright (c) 2005-2015, Thomas BERNARD
+All rights reserved.
+http://miniupnp.free.fr/
+License: https://github.com/miniupnp/miniupnp/blob/master/miniupnpc/LICENSE
+
+Qt
+http://qt-project.org/
+License: http://qt-project.org/products/licensing
+
+libcurl
+Copyright (c) 1996 - 2015, Daniel Stenberg, <daniel@haxx.se>.
+All rights reserved.
+http://curl.haxx.se/
+License: https://github.com/bagder/curl/blob/master/COPYING
+
+c-ares
+http://c-ares.haxx.se/
+License: Distributed under the same MIT-style license as the original ares.
+
+libevent
+Copyright (c) 2000-2007 Niels Provos <provos@citi.umich.edu>
+Copyright (c) 2007-2012 Niels Provos and Nick Mathewson
+http://libevent.org/
+License: http://libevent.org/LICENSE.txt
+
+OpenSSL
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)
+License: http://www.openssl.org/source/license.html
+
+QtCurve by Craig Drummond
+http://kde-look.org/content/show.php?content=40492
+License: http://www.fsf.org/licenses/gpl.html
+
+zlib
+Copyright (C) 1995-2014 Jean-loup Gailly and Mark Adler
+http://zlib.net/
+License: http://zlib.net/zlib_license.html
+
+Tango Desktop Project
+http://tango.freedesktop.org/
+The Tango base icon theme is released to the Public Domain.
+
+MinGW-w64
+http://sourceforge.net/apps/trac/mingw-w64/
+License: http://sourceforge.net/apps/trac/mingw-w64/browser/trunk/COPYING.MinGW-w64-runtime/COPYING.MinGW-w64-runtime.txt
+
+MXE
+http://mxe.cc/
+License: http://mxe.cc/#copyright
+
+CERTUM
+https://sklep.unizeto.pl/en/certum.php
+For the free code signing certificate.
+
+BitRock
+http://bitrock.com/
+For the free installer builder.
+
+Transmission-Qt for Windows
+Copyright (C) 2010-2015 René Berber
+http://trqtw.sourceforge.net/
+License: http://www.opensource.org/licenses/mit-license.php
+     or: http://opensource.org/licenses/isc-license.txt
